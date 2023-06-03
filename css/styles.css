@@ -1,0 +1,29 @@
+body {
+  background-color: sandybrown;
+  margin-top: 30px;
+  margin-left: 30px
+}
+
+h {
+  font-weight: bolder;
+  font-size: 40px;
+}
+
+.important {
+  color: blue;
+}
+
+.fun {
+  color: crimson;
+  font-size: 20px;
+  line-height: 30px;
+  float: right;
+  margin-right: 750px;
+  margin-top: 600px;
+}
+
+img {
+  float: right;
+  margin-right: 730px;
+  margin-top: 30px
+}
