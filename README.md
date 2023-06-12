@@ -4,6 +4,8 @@
 
 #### _A webpage about Will Jolley and his projects_
 
+https://willjolley.github.io/portfolio/
+
 ## Technologies Used
 
 * HTML
@@ -17,11 +19,11 @@ This html webpage provides users with an index of the projects that Will has wor
 
 * Clone this repository to your desktop.
 * Navigate to the top level of the directory.
-* Open index.html in your browser
+* Open index.html in your browser.
 
 ## Known Bugs
 
-* N/A
+* Text and images collapse over each other unless the window is maximized.
 
 ## License
 
